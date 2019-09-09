@@ -1,5 +1,5 @@
-# Week-1-Project
-Week-1 Project, Image Classification;
+# Week-1-Project<br>
+Week-1 Project, Image Classification;<br>
 There are two files in this project - index.html and index.js;
 Open index.html in Google Chrome to display the homepage;
 Click on "See a Demo" button to see the image classification and prediction using Tensorflow.js; 
