@@ -6,3 +6,7 @@
 5- The image classification and prediction results are shown on the homepage;<br>
 6- "Upload & Predict" button is to upload a local disk image for MobileNet to classify but it does not work yet because of an error from MobileNet model which seems to be expecting an image with web url address or an image on the web.<br>
 7- "Webcam & Predict" button with KNN classifier is a place holder and not implemented yet in this version;<br>
+
+
+Week1 Project Screen Shot:<br>
+<img src="media/week1.png" width=1000><br><br>
