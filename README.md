@@ -9,4 +9,4 @@
 
 
 Week1 Project Screen Shot:<br>
-<img src="media/week1.png" width=1000><br><br>
+<img src="Project1-Output.png" width=1000><br><br>
